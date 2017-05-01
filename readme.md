@@ -23,3 +23,5 @@ http://www.tutorialspoint.com/postgresql/postgresql_alter_command.htm
 Always have a unique ID
 
 Use the correct type for your data vs. always using varchar
+
+Use your modifiers (for example use your constraints, such as UNIQUE to make sure data is consistent.)
